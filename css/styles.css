@@ -1,0 +1,12 @@
+p.flashy{
+  font-style: italic;
+  font-size: 16px;
+}
+p.best{
+  font-style: oblique;
+  color: red;
+}
+p.link{
+  color: purple;
+  font-family: sans-serif;
+}
